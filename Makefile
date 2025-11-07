@@ -33,7 +33,7 @@
 #---------------------------------------------------------------------------------------------------------------------
 TARGET      	:=  garbanzo
 BUILD       	:=  build
-LIBBUTANO   	:=  ../butano/butano
+LIBBUTANO   	:=  butano/butano
 PYTHON      	:=  python
 SOURCES     	:=  src
 INCLUDES    	:=  include

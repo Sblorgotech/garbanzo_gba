@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Garbanzo",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/butano/butano/include"
+            ]
+        }
+    ],
+    "version": 4
+}
